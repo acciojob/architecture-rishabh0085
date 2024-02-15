@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+body{
+      width: 1100px;
+      background-color: lightgray;
+    }
+    table{
+      border: 1px solid black;
+      text-align: center;
+    }
+    td{
+      border: 1px solid black;
+    }
